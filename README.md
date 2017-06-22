@@ -23,7 +23,7 @@ Introduction
 数据来源
 ============
 * 行政区划（ http://www.xzqh.org/ ）
-* 中华人民共和国国家统计局《最新县及县以上行政区划代码》（截止2012年10月31日）（ http://www.stats.gov.cn/tjbz/xzqhdm/t20130118_402867249.htm ）
+* 中华人民共和国国家统计局《最新县及县以上行政区划代码》（截止 2017-03-10 10:33）（ http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201703/t20170310_1471429.html ）
 * 百度百科（ http://baike.baidu.com/ ）
 
 错误反馈
